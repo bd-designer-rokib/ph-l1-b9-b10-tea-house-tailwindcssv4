@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "autoprefixer";
+
+@theme {
+  --font-manrope: "Manrope", "serif";
+  --font-jakarta: "Plus Jakarta Sans", "serif";
+  --color-shade-1: #1c1c1c;
+  --color-shade-2: #777;
+  --color-shade-3: #5767391a;
+  --color-shade-4: #e6a6231a;
+  --color-shade-5: #f4f4f4;
+  --color-shade-6: #5d5a6f;
+  --color-shade-7: #d2d2d2;
+  --color-shade-8: #494949;
+  --shadow-shadow-1: 0px 7px 50px 0px rgba(0, 0, 0, 0.06);
+}
